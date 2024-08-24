@@ -1,17 +1,17 @@
-<h1 align="center">Hi ??, I'm Daniel Zalka</h1>
+<h1 align="center">Hi 👋, I'm Daniel Zalka</h1>
 <h3 align="center">A passionate computer science student from Israel</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-zalka&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-zalka" /> </p>
 
-- ?? I’m currently learning **React**
+- 🌱 I’m currently learning **React**
 
-- ?? Ask me about **Python, C++, C**
+- 💬 Ask me about **Python, C++, C**
 
-- ?? How to reach me **danielzalka444@gmail.com**
+- 📫 How to reach me **danielzalka444@gmail.com**
 
-- ? Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
